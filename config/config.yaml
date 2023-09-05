@@ -1,0 +1,18 @@
+systemConf:
+  port: 6320
+  callBackUrl: 
+  msgMode: markdown
+  logConf:
+    logLevel: "debug"
+    logOutPutMode: console #console file both
+    logOutPutPath: "./log/crop-bot-run.log"
+    logTimeFormat: "2006-01-02 15:04:05"
+    logFormatter: text # text json
+
+weConfig:
+  corpid: 
+  corpSecret: 
+  agentId: 
+  weApiRCallToken: 
+  weApiEncodingKey: 
+  weChatApiAddr: https://qyapi.weixin.qq.com

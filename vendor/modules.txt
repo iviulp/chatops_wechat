@@ -1,0 +1,513 @@
+# github.com/ArtisanCloud/PowerLibs/v3 v3.0.13
+## explicit; go 1.17
+github.com/ArtisanCloud/PowerLibs/v3/cache
+github.com/ArtisanCloud/PowerLibs/v3/exception
+github.com/ArtisanCloud/PowerLibs/v3/fmt
+github.com/ArtisanCloud/PowerLibs/v3/http/contract
+github.com/ArtisanCloud/PowerLibs/v3/http/dataflow
+github.com/ArtisanCloud/PowerLibs/v3/http/drivers/http
+github.com/ArtisanCloud/PowerLibs/v3/http/helper
+github.com/ArtisanCloud/PowerLibs/v3/logger
+github.com/ArtisanCloud/PowerLibs/v3/logger/contract
+github.com/ArtisanCloud/PowerLibs/v3/logger/drivers/zap
+github.com/ArtisanCloud/PowerLibs/v3/object
+github.com/ArtisanCloud/PowerLibs/v3/os
+# github.com/ArtisanCloud/PowerSocialite/v3 v3.0.6
+## explicit; go 1.17
+github.com/ArtisanCloud/PowerSocialite/v3/src/configs
+github.com/ArtisanCloud/PowerSocialite/v3/src/contracts
+github.com/ArtisanCloud/PowerSocialite/v3/src/exceptions
+github.com/ArtisanCloud/PowerSocialite/v3/src/models
+github.com/ArtisanCloud/PowerSocialite/v3/src/providers
+github.com/ArtisanCloud/PowerSocialite/v3/src/response/weCom
+github.com/ArtisanCloud/PowerSocialite/v3/src/response/wechat
+# github.com/ArtisanCloud/PowerWeChat/v3 v3.0.64
+## explicit; go 1.17
+github.com/ArtisanCloud/PowerWeChat/v3/src/basicService/jssdk
+github.com/ArtisanCloud/PowerWeChat/v3/src/basicService/subscribeMessage
+github.com/ArtisanCloud/PowerWeChat/v3/src/basicService/subscribeMessage/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/basicService/subscribeMessage/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/kernel
+github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/contract
+github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/decorators
+github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/messages
+github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/models
+github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/power
+github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/providers
+github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/kernel/support
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/auth
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/auth/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/base
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/base/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/base/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/customerServiceMessage
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/customerServiceMessage/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/customerServiceMessage/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/dataCube
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/dataCube/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/dataCube/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/express
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/express/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/image
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/image/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/immediateDelivery
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/immediateDelivery/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/industry/miniDrama/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/industry/miniDrama/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/industry/miniDrama/vod
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/internet
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/liveBroadcast
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/liveBroadcast/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/liveBroadcast/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/nearbyPoi
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/nearbyPoi/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/ocr
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/ocr/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/operation
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/operation/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/phoneNumber
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/phoneNumber/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/plugin
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/plugin/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/riskControl
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/riskControl/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/riskControl/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/search
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/search/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/security
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/security/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/server
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/serviceMarket
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/serviceMarket/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/serviceMarket/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/shortLink
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/shortLink/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/soter
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/soter/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/soter/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/uniformMessage
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/uniformMessage/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/updatableMessage
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/updatableMessage/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/updatableMessage/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/urlLink
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/urlLink/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/urlLink/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/urlScheme
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/urlScheme/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/urlScheme/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/virtualPayment
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/virtualPayment/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/miniProgram/wxaCode
+github.com/ArtisanCloud/PowerWeChat/v3/src/officialAccount/device/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/officialAccount/server
+github.com/ArtisanCloud/PowerWeChat/v3/src/work
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/accountService
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/accountService/customer
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/accountService/customer/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/accountService/customer/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/accountService/message
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/accountService/message/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/accountService/message/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/accountService/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/accountService/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/accountService/serviceState
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/accountService/serviceState/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/accountService/servicer
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/accountService/servicer/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/accountService/tag
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/agent
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/agent/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/agent/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/agent/workbench
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/auth
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/base
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/base/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/corpgroup
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/corpgroup/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/department
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/department/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/department/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/contactWay
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/contactWay/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/contactWay/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/customerStrategy
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/customerStrategy/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/customerStrategy/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/groupChat
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/groupChat/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/groupChat/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/groupWelcomeTemplate
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/groupWelcomeTemplate/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/groupWelcomeTemplate/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/messageTemplate
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/messageTemplate/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/messageTemplate/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/moment
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/moment/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/moment/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/momentStrategy
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/momentStrategy/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/momentStrategy/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/school
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/statistics
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/statistics/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/statistics/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/tag
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/tag/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/tag/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/transfer
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/transfer/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/externalContact/transfer/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/groupRobot
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/groupRobot/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/groupRobot/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/invoice
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/invoice/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/invoice/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/jssdk
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/jssdk/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/media
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/media/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/menu
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/menu/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/menu/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/message
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/message/appChat
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/message/appChat/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/message/appChat/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/message/externalContact
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/message/externalContact/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/message/linkedCorp
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/message/linkedCorp/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/message/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/message/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/miniProgram
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/miniProgram/auth
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/miniProgram/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/msgAudit
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/msgAudit/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/calendar
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/calendar/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/dial
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/dial/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/dial/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/journal
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/journal/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/living
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/living/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/living/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/meeting
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/meeting/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/meeting/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/meetingroom
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/meetingroom/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/meetingroom/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/pstncc
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/pstncc/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/schedule
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/schedule/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/webdrive
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/webdrive/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oa/webdrive/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/oauth
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/server
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/server/handlers
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/server/handlers/models
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/user
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/user/batchJobs
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/user/exportJobs
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/user/linkedCorp
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/user/request
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/user/response
+github.com/ArtisanCloud/PowerWeChat/v3/src/work/user/tag
+# github.com/bytedance/sonic v1.9.1
+## explicit; go 1.15
+github.com/bytedance/sonic
+github.com/bytedance/sonic/ast
+github.com/bytedance/sonic/decoder
+github.com/bytedance/sonic/encoder
+github.com/bytedance/sonic/internal/caching
+github.com/bytedance/sonic/internal/cpu
+github.com/bytedance/sonic/internal/decoder
+github.com/bytedance/sonic/internal/encoder
+github.com/bytedance/sonic/internal/jit
+github.com/bytedance/sonic/internal/loader
+github.com/bytedance/sonic/internal/native
+github.com/bytedance/sonic/internal/native/avx
+github.com/bytedance/sonic/internal/native/avx2
+github.com/bytedance/sonic/internal/native/sse
+github.com/bytedance/sonic/internal/native/types
+github.com/bytedance/sonic/internal/resolver
+github.com/bytedance/sonic/internal/rt
+github.com/bytedance/sonic/loader
+github.com/bytedance/sonic/option
+github.com/bytedance/sonic/unquote
+github.com/bytedance/sonic/utf8
+# github.com/cespare/xxhash/v2 v2.2.0
+## explicit; go 1.11
+github.com/cespare/xxhash/v2
+# github.com/chenzhuoyu/base64x v0.0.0-20221115062448-fe3a3abad311
+## explicit; go 1.15
+github.com/chenzhuoyu/base64x
+# github.com/common-nighthawk/go-figure v0.0.0-20210622060536-734e95fb86be
+## explicit
+github.com/common-nighthawk/go-figure
+# github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f
+## explicit
+github.com/dgryski/go-rendezvous
+# github.com/fsnotify/fsnotify v1.6.0
+## explicit; go 1.16
+github.com/fsnotify/fsnotify
+# github.com/gabriel-vasile/mimetype v1.4.2
+## explicit; go 1.20
+github.com/gabriel-vasile/mimetype
+github.com/gabriel-vasile/mimetype/internal/charset
+github.com/gabriel-vasile/mimetype/internal/json
+github.com/gabriel-vasile/mimetype/internal/magic
+# github.com/gin-contrib/cors v1.4.0
+## explicit; go 1.13
+github.com/gin-contrib/cors
+# github.com/gin-contrib/sse v0.1.0
+## explicit; go 1.12
+github.com/gin-contrib/sse
+# github.com/gin-gonic/gin v1.9.1
+## explicit; go 1.20
+github.com/gin-gonic/gin
+github.com/gin-gonic/gin/binding
+github.com/gin-gonic/gin/internal/bytesconv
+github.com/gin-gonic/gin/internal/json
+github.com/gin-gonic/gin/render
+# github.com/go-playground/locales v0.14.1
+## explicit; go 1.17
+github.com/go-playground/locales
+github.com/go-playground/locales/currency
+# github.com/go-playground/universal-translator v0.18.1
+## explicit; go 1.18
+github.com/go-playground/universal-translator
+# github.com/go-playground/validator/v10 v10.14.0
+## explicit; go 1.18
+github.com/go-playground/validator/v10
+# github.com/goccy/go-json v0.10.2
+## explicit; go 1.12
+github.com/goccy/go-json
+github.com/goccy/go-json/internal/decoder
+github.com/goccy/go-json/internal/encoder
+github.com/goccy/go-json/internal/encoder/vm
+github.com/goccy/go-json/internal/encoder/vm_color
+github.com/goccy/go-json/internal/encoder/vm_color_indent
+github.com/goccy/go-json/internal/encoder/vm_indent
+github.com/goccy/go-json/internal/errors
+github.com/goccy/go-json/internal/runtime
+# github.com/hashicorp/hcl v1.0.0
+## explicit
+github.com/hashicorp/hcl
+github.com/hashicorp/hcl/hcl/ast
+github.com/hashicorp/hcl/hcl/parser
+github.com/hashicorp/hcl/hcl/printer
+github.com/hashicorp/hcl/hcl/scanner
+github.com/hashicorp/hcl/hcl/strconv
+github.com/hashicorp/hcl/hcl/token
+github.com/hashicorp/hcl/json/parser
+github.com/hashicorp/hcl/json/scanner
+github.com/hashicorp/hcl/json/token
+# github.com/jinzhu/inflection v1.0.0
+## explicit
+github.com/jinzhu/inflection
+# github.com/jinzhu/now v1.1.5
+## explicit; go 1.12
+github.com/jinzhu/now
+# github.com/json-iterator/go v1.1.12
+## explicit; go 1.12
+github.com/json-iterator/go
+# github.com/klauspost/cpuid/v2 v2.2.4
+## explicit; go 1.15
+github.com/klauspost/cpuid/v2
+# github.com/leodido/go-urn v1.2.4
+## explicit; go 1.16
+github.com/leodido/go-urn
+# github.com/magiconair/properties v1.8.7
+## explicit; go 1.19
+github.com/magiconair/properties
+# github.com/mattn/go-isatty v0.0.19
+## explicit; go 1.15
+github.com/mattn/go-isatty
+# github.com/mattn/go-sqlite3 v1.14.17
+## explicit; go 1.16
+github.com/mattn/go-sqlite3
+# github.com/mitchellh/mapstructure v1.5.0
+## explicit; go 1.14
+github.com/mitchellh/mapstructure
+# github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd
+## explicit
+github.com/modern-go/concurrent
+# github.com/modern-go/reflect2 v1.0.2
+## explicit; go 1.12
+github.com/modern-go/reflect2
+# github.com/patrickmn/go-cache v2.1.0+incompatible
+## explicit
+github.com/patrickmn/go-cache
+# github.com/pelletier/go-toml/v2 v2.0.8
+## explicit; go 1.16
+github.com/pelletier/go-toml/v2
+github.com/pelletier/go-toml/v2/internal/characters
+github.com/pelletier/go-toml/v2/internal/danger
+github.com/pelletier/go-toml/v2/internal/tracker
+github.com/pelletier/go-toml/v2/unstable
+# github.com/pkg/errors v0.9.1
+## explicit
+github.com/pkg/errors
+# github.com/redis/go-redis/v9 v9.0.3
+## explicit; go 1.18
+github.com/redis/go-redis/v9
+github.com/redis/go-redis/v9/internal
+github.com/redis/go-redis/v9/internal/hashtag
+github.com/redis/go-redis/v9/internal/hscan
+github.com/redis/go-redis/v9/internal/pool
+github.com/redis/go-redis/v9/internal/proto
+github.com/redis/go-redis/v9/internal/rand
+github.com/redis/go-redis/v9/internal/util
+# github.com/sbzhu/weworkapi_golang v0.0.0-20210525081115-1799804a7c8d
+## explicit; go 1.14
+github.com/sbzhu/weworkapi_golang/wxbizmsgcrypt
+# github.com/sirupsen/logrus v1.9.3
+## explicit; go 1.13
+github.com/sirupsen/logrus
+# github.com/spf13/afero v1.9.5
+## explicit; go 1.16
+github.com/spf13/afero
+github.com/spf13/afero/internal/common
+github.com/spf13/afero/mem
+# github.com/spf13/cast v1.5.1
+## explicit; go 1.18
+github.com/spf13/cast
+# github.com/spf13/jwalterweatherman v1.1.0
+## explicit
+github.com/spf13/jwalterweatherman
+# github.com/spf13/pflag v1.0.5
+## explicit; go 1.12
+github.com/spf13/pflag
+# github.com/spf13/viper v1.16.0
+## explicit; go 1.17
+github.com/spf13/viper
+github.com/spf13/viper/internal/encoding
+github.com/spf13/viper/internal/encoding/dotenv
+github.com/spf13/viper/internal/encoding/hcl
+github.com/spf13/viper/internal/encoding/ini
+github.com/spf13/viper/internal/encoding/javaproperties
+github.com/spf13/viper/internal/encoding/json
+github.com/spf13/viper/internal/encoding/toml
+github.com/spf13/viper/internal/encoding/yaml
+# github.com/subosito/gotenv v1.4.2
+## explicit; go 1.18
+github.com/subosito/gotenv
+# github.com/twitchyliquid64/golang-asm v0.15.1
+## explicit; go 1.13
+github.com/twitchyliquid64/golang-asm/asm/arch
+github.com/twitchyliquid64/golang-asm/bio
+github.com/twitchyliquid64/golang-asm/dwarf
+github.com/twitchyliquid64/golang-asm/goobj
+github.com/twitchyliquid64/golang-asm/obj
+github.com/twitchyliquid64/golang-asm/obj/arm
+github.com/twitchyliquid64/golang-asm/obj/arm64
+github.com/twitchyliquid64/golang-asm/obj/mips
+github.com/twitchyliquid64/golang-asm/obj/ppc64
+github.com/twitchyliquid64/golang-asm/obj/riscv
+github.com/twitchyliquid64/golang-asm/obj/s390x
+github.com/twitchyliquid64/golang-asm/obj/wasm
+github.com/twitchyliquid64/golang-asm/obj/x86
+github.com/twitchyliquid64/golang-asm/objabi
+github.com/twitchyliquid64/golang-asm/src
+github.com/twitchyliquid64/golang-asm/sys
+github.com/twitchyliquid64/golang-asm/unsafeheader
+# github.com/ugorji/go/codec v1.2.11
+## explicit; go 1.11
+github.com/ugorji/go/codec
+# go.uber.org/atomic v1.9.0
+## explicit; go 1.13
+go.uber.org/atomic
+# go.uber.org/multierr v1.8.0
+## explicit; go 1.14
+go.uber.org/multierr
+# go.uber.org/zap v1.21.0
+## explicit; go 1.13
+go.uber.org/zap
+go.uber.org/zap/buffer
+go.uber.org/zap/internal/bufferpool
+go.uber.org/zap/internal/color
+go.uber.org/zap/internal/exit
+go.uber.org/zap/zapcore
+# golang.org/x/arch v0.3.0
+## explicit; go 1.17
+golang.org/x/arch/x86/x86asm
+# golang.org/x/crypto v0.9.0
+## explicit; go 1.17
+golang.org/x/crypto/sha3
+# golang.org/x/net v0.10.0
+## explicit; go 1.17
+golang.org/x/net/html
+golang.org/x/net/html/atom
+golang.org/x/net/http/httpguts
+golang.org/x/net/http2
+golang.org/x/net/http2/h2c
+golang.org/x/net/http2/hpack
+golang.org/x/net/idna
+# golang.org/x/sys v0.8.0
+## explicit; go 1.17
+golang.org/x/sys/cpu
+golang.org/x/sys/internal/unsafeheader
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# golang.org/x/text v0.9.0
+## explicit; go 1.17
+golang.org/x/text/internal/language
+golang.org/x/text/internal/language/compact
+golang.org/x/text/internal/tag
+golang.org/x/text/language
+golang.org/x/text/runes
+golang.org/x/text/secure/bidirule
+golang.org/x/text/transform
+golang.org/x/text/unicode/bidi
+golang.org/x/text/unicode/norm
+# google.golang.org/protobuf v1.30.0
+## explicit; go 1.11
+google.golang.org/protobuf/encoding/protowire
+google.golang.org/protobuf/internal/detrand
+google.golang.org/protobuf/internal/encoding/messageset
+google.golang.org/protobuf/internal/errors
+google.golang.org/protobuf/internal/flags
+google.golang.org/protobuf/internal/genid
+google.golang.org/protobuf/internal/order
+google.golang.org/protobuf/internal/pragma
+google.golang.org/protobuf/internal/strs
+google.golang.org/protobuf/proto
+google.golang.org/protobuf/reflect/protoreflect
+google.golang.org/protobuf/reflect/protoregistry
+google.golang.org/protobuf/runtime/protoiface
+# gopkg.in/ini.v1 v1.67.0
+## explicit
+gopkg.in/ini.v1
+# gopkg.in/yaml.v3 v3.0.1
+## explicit
+gopkg.in/yaml.v3
+# gorm.io/driver/sqlite v1.5.3
+## explicit; go 1.20
+gorm.io/driver/sqlite
+# gorm.io/gorm v1.25.4
+## explicit; go 1.16
+gorm.io/gorm
+gorm.io/gorm/callbacks
+gorm.io/gorm/clause
+gorm.io/gorm/logger
+gorm.io/gorm/migrator
+gorm.io/gorm/schema
+gorm.io/gorm/utils
